@@ -159,7 +159,7 @@ predict-the-cup/
 
 # Acknowledgements
 
-This project was completed as part of the **Frontend Engineering with Prediction Game** learning experience provided by **ProooV (ProjectStudy)**.
+This project was completed as part of the **Frontend Engineering with Prediction Game** learning experience provided by [**`ProooV (ProjectStudy)`**](https://projectstudy.in/).
 
 The project implementation was completed independently by following the educational lab while writing and understanding the required JavaScript logic.
 
