@@ -22,8 +22,6 @@ https://leafy-phoenix-23aa78.netlify.app/
 
 ## Screenshots
 
-> Add screenshots inside the `assets/` folder.
-
 | Home | Gameplay | Leaderboard |
 |------|-----------|-------------|
 | ![](assets/screenshot-home.png) | ![](assets/screenshot-game.png) | ![](assets/screenshot-leaderboard.png) |
