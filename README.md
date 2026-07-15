@@ -176,4 +176,4 @@ The project implementation was completed independently by following the educatio
 
 # License
 
-This repository is released under the MIT License.
+Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more information.
